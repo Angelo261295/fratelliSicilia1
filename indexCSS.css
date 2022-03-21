@@ -1,0 +1,504 @@
+
+body{
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+header{
+    background-color: #261916;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+
+.boxImgLogo{
+    padding-top: 19px;
+    padding-left: 117px;
+}
+
+.boxImglightBrown
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.navbarTextContainer
+{
+    position: absolute;
+    top:45%;
+    left:0;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFF;
+}
+
+.navbarIconContainer{
+    position: absolute;
+    top:39%;
+    left:0;
+}
+
+#stringPositionHome{
+    margin-left: 150px;
+}
+
+#stringPositionShop{
+    margin-left: 35px;
+}
+
+#stringPositionAboutUs{
+    margin-left: 35px;
+}
+
+#stringPositionBlog{
+    margin-left: 38px;
+}
+
+#searchIcon{
+    margin-left: 607px;
+}
+
+#profileIcon{
+    margin-left: 29px;
+}
+
+#bagIcon{
+    margin-left: 28px;
+}
+
+.containerTitle{
+    text-align: center;
+    margin-top: 123px;
+}
+
+
+#title{
+    font-family: Yeseva One;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+}
+
+#hashtagRicette{
+    font-family: Helvetica;
+    font-size: 11px;
+    font-weight: 300;
+    line-height: 13px;
+    letter-spacing: 0.1em;
+    margin-top: 9px;
+}
+
+.containerImg{
+    margin-top: 35px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.containerImg img{
+    width: 100%;
+}
+
+
+.bodyTextContainer{
+    margin-top: 57px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0em;
+}
+
+.bodyTextContainer p{
+ padding-left: 202px;
+ padding-right: 202px;
+}
+
+#bodyText2{
+    margin-top: 14px;
+}
+
+.containerCommentsSave{
+    margin-top: 142px;
+}
+
+
+.textComments{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0em;
+}
+
+
+#bookmarkIcon{
+    margin-left: 35px;
+}
+
+#textIconTagRicette{
+    margin-left: 15px;
+}
+
+#textIconComments{
+    margin-left: 15px;
+}
+
+#iconChat{
+    margin-left: 51px;
+}
+
+.line{
+    border: 1px solid #C4C4C4;
+    margin: 34px;
+}
+
+
+.containerImgPhotoMandorle{
+    position: relative;
+    top:0;
+    left: 0;
+}
+
+.containerPhoto1 img{
+    margin-left: 60px;
+}
+
+.containerTextPhoto1{
+    position: absolute;
+    top: 0;
+    left: 180px;
+}
+
+.containerPhoto2{
+    position: absolute;
+    top:0;
+    right:0;
+}
+
+.containerPhoto2 img{
+    margin-right: 60px;
+}
+
+.dataPictures1{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #534F4F;
+}
+
+.dataPictures2{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #534F4F;
+    margin-left: 164px;
+}
+
+.containerTextPhoto2{
+    
+    position: absolute;
+    top: 0;
+    right: 180px;
+
+}
+
+.textMandorlaPizzuta{
+    font-family: Yeseva One;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+
+.text3Comments{
+    margin-top:79px;
+    margin-left: 38px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0em;
+}
+
+.containerIconsWithComments{
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 40px;
+    margin-left: 38px;
+    width: 100%;
+}
+
+.firstContainerIconsWithComments{
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+
+.firstContainerIconsWithCommentsText{
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+.firstContainerIconsWithCommentsTextUp{
+    position: absolute;
+    top:0;
+    left: 108px;
+    width: 100%;
+    margin-top: 18px;
+}
+
+.positionNome{
+    position: absolute;
+    top:0;
+    left:0;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+
+.positionDate{
+    position: absolute;
+    top:0;
+    left:60px;
+    width: 100%;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+
+.containerIconsWithComments{
+    width:100%;
+}
+
+.firstContainerIconsWithComments{
+    width:80%;
+}
+
+.firstContainerIconsWithCommentsText{
+    width: 100%;
+}
+
+.firstContainerIconsWithCommentsTextDown{
+    position: relative;
+    top: 40px;
+    left: 64px;
+}
+.firstContainerIconsWithCommentsTextDownComment{
+    position: absolute;
+    top:0;
+    left:44px;
+}
+
+.firstContainerIconsWithCommentsTextDownReply{
+    position: absolute;
+    top: 45px;
+    right: -118px;
+    
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+
+/*Secondo contenitore per i commenti*/
+
+.secondContainerIconsWithComments{
+    position: relative;
+    top:68px;
+    left: 18px;
+    width: 100%;
+}
+
+.secondContainerIconsWithCommentsText{
+    width: 100%;
+}
+
+.secondContainerIconsWithCommentsTextUp{
+    position: absolute;
+    top: 19px;
+    left: 110px;
+    width: 100%;
+}
+
+.secondContainerIconsWithCommentsTextDown{
+    position: absolute;
+    top: 40px;
+    left: 110px;
+    width: 100%;
+}
+
+.secondContainerIconsWithCommentsTextDownReply{
+    position: absolute;
+    top: 48px;
+    right: 230px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+
+}
+
+.textLeaveAReply{
+    position: relative;
+    top:200px;
+    left:38px;
+}
+
+.text2{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+
+.form{
+    position: relative;
+    top:248px;
+    left:0;
+}
+
+.littleInput{
+    height: 52px;
+    width: 673px;
+    margin-left: 37px;
+}
+
+.form #text{
+    height: 200px;
+    width: 1396px;
+}
+
+.bigInput{
+    margin-top: 30px;
+    margin-left: 37px;
+}
+
+.buttonContainer{
+    margin-top: 39px;
+    margin-left: 37px;
+}
+
+#button1{
+    background-color:#E60B7F;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #FFFF;
+    height: 52px;
+    width: 225px;
+}
+
+/*FOOTER*/
+
+footer{
+    position: relative;
+    top:0px;
+    left:0px;
+    margin-top: 400px;
+    background-color: #000000;
+}
+
+.logoFooter{
+    padding: 51px;
+    margin-left: 100px;    
+    padding-bottom: 300px;
+
+}
+
+.logoFooter img{
+    width: 153px;
+    height: 50px;
+}
+
+
+.titleText{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #FFFF;
+}
+
+.textContent{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #C4C4C4;
+    margin-top: 10px;
+
+}
+
+
+.containerContatti{
+    position: absolute;
+    top:0;
+    left:0;
+    margin-top: 150px;
+    margin-left: 155px;
+}
+
+.containerShop{
+    position: absolute;
+    top:150px;
+    left:180px;
+    margin-left: 300px;
+}
+
+.containerLinkUtili{
+    position: absolute;
+    top:150px;
+    left:220px;
+    margin-left: 600px;
+}
+
+.containerQuestion{
+    position: absolute;
+    top:150px;
+    left:580px;
+    margin-left: 600px;
+}
+
+
+#button2{
+    background-color: #CAA069;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #FFFF;
+    width: 160px;
+    height: 43px;
+    margin-top: 20px;
+}
+
